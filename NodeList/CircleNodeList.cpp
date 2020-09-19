@@ -1,5 +1,5 @@
 
-// 循环链表实现约瑟夫环
+# 循环链表实现约瑟夫环
 
 #include<iostream>
 using std::cin;
